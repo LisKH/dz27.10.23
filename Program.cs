@@ -51,7 +51,7 @@
 //int b = Convert.ToInt32(Console.ReadLine());
 //while (b > 0)
 //{
-//    Console.WriteLine("Введите очередное число последовательности a=");
+//    Console.WriteLine("Введите очередное число последовательности d=");
 //    double c = Convert.ToDouble(Console.ReadLine());
 //    double a = c % 10;
 //    if (a / b == 1)
